@@ -69,7 +69,5 @@ Si estás interesado en colaborar en un proyecto, tienes una propuesta de desarr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lionny-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/lionny-rodríguez-armenteros)
 [![Instagram](https://img.shields.io/badge/Instagram-lionnyrodriguez05-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/lionnyrodriguez05)
 [![Facebook](https://img.shields.io/badge/Facebook-Lionny_Rodriguez-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/lionny.rodriguez.35)
+[![YouTube](https://img.shields.io/badge/YouTube-TheFoxX-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@thefoxxrealm?si=RfWep16WE_zkT9TI)
 
-<!-- BOTÓN DE YOUTUBE OCULTO 
-[![YouTube](https://img.shields.io/badge/YouTube-Próximamente-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@TU_CANAL)
--->
