@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy **Lionny**
 
 <p align="center">
-  <img src="./assets/profile.png" alt="Lionny" width="180"/>
+  <img src="./assets/IMG_20231013_111014_004.webp" alt="Lionny" width="180"/>
 </p>
 
 <h3 align="center">🎓 Estudiante de Ingeniería Automática | 💻 Entusiasta de la Programación</h3>
