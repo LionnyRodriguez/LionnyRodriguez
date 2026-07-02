@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/lionny-rodríguez-armenteros"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:lionnyrodriguez5@gmail.com"><img src="https://img.shields.io/badge/Email-Contactar-D14836?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="mailto:lionnyrodriguez5@gmail.com"><img src="https://img.shields.io/badge/Email-lionnyrodriguez5@gmail.com-D14836?style=flat-square&logo=gmail" alt="Email"></a>
 </p>
 
 ---
@@ -67,10 +67,8 @@ Para complementar mis estudios de ingeniería y prepararme para entornos profesi
 Si estás interesado en colaborar en un proyecto, tienes una propuesta de desarrollo de software o simplemente quieres hablar de código e ingeniería, encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lionny-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/lionny-rodríguez-armenteros)
-[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:lionnyrodriguez5@gmail.com)
-</br>
-[![Instagram](https://img.shields.io/badge/Instagram-Lionny-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/TU_USUARIO_INSTAGRAM)
-[![Facebook](https://img.shields.io/badge/Facebook-Lionny-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/TU_USUARIO_FACEBOOK)
+[![Instagram](https://img.shields.io/badge/Instagram-lionnyrodriguez05-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/lionnyrodriguez05)
+[![Facebook](https://img.shields.io/badge/Facebook-Lionny_Rodriguez-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/lionny.rodriguez.35)
 
 <!-- BOTÓN DE YOUTUBE OCULTO 
 [![YouTube](https://img.shields.io/badge/YouTube-Próximamente-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@TU_CANAL)
